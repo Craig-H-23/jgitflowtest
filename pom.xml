@@ -49,6 +49,7 @@
                     <flowInitContext>
                         <hotfixBranchPrefix>hotfix-</hotfixBranchPrefix>
                     </flowInitContext>
+                </configuration>
             </plugin>
         </plugins>
     </build>
